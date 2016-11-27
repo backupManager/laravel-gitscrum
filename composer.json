@@ -3,7 +3,7 @@
     "description": "GitScrum is a project to help developer team. Git + Scrum = Team More Productive ",
     "keywords": ["git", "scrum", "power team", "developer team", "laravel", "gitscrum"],
     "license": "GPL-3.0",
-    "version": "dev-master",
+    "version": "0.2.0",
     "type": "application",
     "authors": [
         {
